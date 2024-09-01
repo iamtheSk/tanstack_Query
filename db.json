@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Introduction to ERP",
+      "body": "An overview of ERP systems and their importance in modern businesses."
+    },
+    {
+      "id": "2",
+      "title": "React JS in ERP Development",
+      "body": "Exploring how React JS can be used to build efficient ERP applications."
+    },
+    {
+      "id": "3",
+      "title": "Managing Large Data Sets",
+      "body": "Techniques and tools for handling millions of records in an ERP system."
+    },
+    {
+      "id": "4",
+      "title": "Tailwind CSS for UI Design",
+      "body": "Using Tailwind CSS to create responsive and customizable user interfaces."
+    },
+    {
+      "id": "5",
+      "title": "API Integration with Tanstack Query",
+      "body": "Leveraging Tanstack Query for seamless API integration in ERP systems."
+    }
+  ],
+
+  "todos": [
+    {
+      "id": "1",
+      "title": "Learn React",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "Build a React App",
+      "completed": false
+    },
+    {
+      "id": "3",
+      "title": "Learn Redux",
+      "completed": false
+    }
+  ]
+}
